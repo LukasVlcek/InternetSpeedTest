@@ -3,7 +3,7 @@ InternetSpeedTest aplikace vytvořená v Pythonu 2.7, která otestuje rychlost i
 
 Více na http://www.lukas-vlcek.cz/
 
-1)  Naklonování repositáře
+1)  Naklonování repozitáře
 
 2)  Nainstalujte rozšíření Pythonu 2.7 - speedtest-cli
 
