@@ -8,8 +8,9 @@ Více na http://www.lukas-vlcek.cz/
 2)  Nainstalujte rozšíření Pythonu 2.7 - speedtest-cli
 
     pip install speedtest-cli
-    
+
 2)  Spuštění programu...
 
 Výpis dat je v následujícím formátu. Uvedené rychlosti jsou v Mbps a ping je v ms.
+
 {'date': '16. 02. 2017, 17:24:22', 'download': 91.33, 'ping': 21.883, 'upload': 81.95}
